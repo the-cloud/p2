@@ -3,7 +3,6 @@ link do tutoriala, dokumentacji:
 https://tinyurl.com/y2k5kl94
 poniżej jest mój przykład, wąż który sunie przez dwie pierwsze linijki
 DM me if you have any questions
-Mateusz Niedźwiecki
 """
 import microbit
 
