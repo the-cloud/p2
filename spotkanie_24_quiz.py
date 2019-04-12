@@ -1,5 +1,5 @@
 import microbit
-from time import sleep
+import time
 
 # obrazek do wyświetlenie gry program się uruchomi
 cloud = microbit.Image("00000:00000:00000:00000:00000")  # matryca LED
