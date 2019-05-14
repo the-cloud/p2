@@ -1,4 +1,5 @@
 # Minecraft + microbit as controller, kinda racing game by @thecloud_1
+# before starting, look in direction of positive Z
 
 import mcpi.minecraft as minecraft
 import microbit
