@@ -1,4 +1,4 @@
-# racing game by @thecloud_1
+# Minecraft + microbit as controller, kinda racing game by @thecloud_1
 
 import mcpi.minecraft as minecraft
 import microbit
